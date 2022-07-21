@@ -1,0 +1,19 @@
+.navigation {
+    display: inline-block;
+    background-color: darkgray;
+    height: 50px;
+    width: 150px;
+    padding: 2px;
+}
+.sidebar {
+    display: block;
+    width: 29%;
+    float: left;
+    background-color: antiquewhite;
+}
+.main-content {
+    display: block;
+    width: 70%;
+    float: left;
+    background-color: brown;
+}
